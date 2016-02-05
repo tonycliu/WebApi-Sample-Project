@@ -12,6 +12,7 @@ namespace WebApi_Sample_Project.Test
 		[Fact]
 		public void Test()
 		{
+			//test
 			Assert.Equal(true, true);
 		}
 	}
